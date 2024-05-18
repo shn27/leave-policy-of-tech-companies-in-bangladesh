@@ -1,8 +1,12 @@
 ==== Alphabetical Order: A - C
 |===
-|Company Name |Office location |Technologies | Web presence
+| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  |
 
-|Adplay Technologies (VU Mobile)
-|Head Office: 4th Floor, House- 114, Road-12, Block-E, Banani, Dhaka-1213
-|JavaScript, React, Wordpress
-|http://vumobile.biz
+| Appscode
+| Flat A2, House 4, Rd No. 10, Dhaka 1230
+| 5
+| 10
+| 0
+|  15
+| Office hour is flexible. Can take early leave.
+|https://www.appscode.com |
