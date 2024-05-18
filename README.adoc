@@ -9,6 +9,7 @@
 
 
 
+
 ==== Alphabetical Order: A - C
 |===
 | Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  |
@@ -65,3 +66,6 @@
 | Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  |
 
 |===
+
+=== Contribute
+Contributions are always welcome! Create a pull request.
