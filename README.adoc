@@ -1,6 +1,6 @@
 # leave-policy-of-tech-companies-in-bangladesh
 
-<h3>How to add a new Company?</h3>
+=== How to add a new Company?
 
 - Fork the repository.
 - Add the company in alphabetical order.
