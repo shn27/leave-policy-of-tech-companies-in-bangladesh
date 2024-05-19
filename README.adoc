@@ -13,7 +13,7 @@
 
 ==== Alphabetical Order: A - C
 |===
-| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  |
+| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  
 
 | Appscode
 | Flat A2, House 4, Rd No. 10, Dhaka 1230
@@ -28,7 +28,7 @@
 
 ==== Alphabetical Order: D - F
 |===
-| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  |
+| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  
 
 | Enosis Solutions
 | House No 27, Road No 8, Gulshan-1, Dhaka 1212
@@ -43,37 +43,37 @@
 
 ==== Alphabetical Order: G - I
 |===
-| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  |
+| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  
 
 |===
 
 ==== Alphabetical Order: J - L
 |===
-| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  |
+| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  
 
 |===
 
 ==== Alphabetical Order: M - O
 |===
-| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  |
+| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  
 
 |===
 
 ==== Alphabetical Order: P - R
 |===
-| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  |
+| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  
 
 |===
 
 ==== Alphabetical Order: S - U
 |===
-| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  |
+| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  
 
 |===
 
 ==== Alphabetical Order: V - Z
 |===
-| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  |
+| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  
 
 |===
 
