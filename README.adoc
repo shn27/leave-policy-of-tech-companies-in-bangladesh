@@ -21,14 +21,23 @@
 | 10
 | 0
 | 15
-| Office hour is flexible. Can take early leave.
-|https://www.appscode.com |
+| Office hour is flexible. Can take early leave. Can take half day leave also.
+| https://www.appscode.com |
 
 |===
 
 ==== Alphabetical Order: D - F
 |===
 | Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  |
+
+| Enosis Solutions
+| House No 27, Road No 8, Gulshan-1, Dhaka 1212
+| 0
+| 22
+| 0
+| 17
+| Office hour is flexible. Can take early leave. Can take half day leave also.
+| https://www.enosisbd.com |
 
 |===
 
