@@ -49,7 +49,16 @@
 
 ==== Alphabetical Order: J - L
 |===
-| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence  
+| Company Name| Office location | Sick Leave | Casual Leave | Anual Leave | Govt. Holydays| Comments | Web presence 
+
+| Giga Tech Limited
+| Lotus Kamal Tower – 2 (Level 6 & 12) 59 & 61 Gulshan South Avenue Dhaka 1212, Bangladesh
+| 10
+| 10
+| 7
+| 15
+| Office hour is flexible. But Sometimes need to work more than office time.
+| https://gigatechltd.com/ |
 
 |===
 
