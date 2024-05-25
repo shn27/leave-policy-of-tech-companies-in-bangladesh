@@ -22,7 +22,16 @@
 | 0
 | 15
 | Office hour is flexible. Can take early leave. Can take half day leave also.
-| https://www.appscode.com |
+| https://www.appscode.com[Website] 
+
+| BJIT
+| Road 2/C, House 7, Block J, Baridhara, Dhaka 1212, Bangladesh
+| 14
+| 10
+| 13
+| 17
+| Can take half day leave.
+| https://bjitgroup.com[Website]
 
 |===
 
@@ -37,7 +46,7 @@
 | 0
 | 17
 | Office hour is flexible. Can take early leave. Can take half day leave also.
-| https://www.enosisbd.com |
+| https://www.enosisbd.com[Website]
 
 |===
 
